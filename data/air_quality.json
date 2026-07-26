@@ -1,0 +1,322 @@
+[
+  {
+    "reading_id": 1,
+    "locality": "Anna Nagar",
+    "pm_value": 25,
+    "level": "Good",
+    "recorded_at": "2026-07-26 09:00",
+    "device_id": "AQ001"
+  },
+  {
+    "reading_id": 2,
+    "locality": "T Nagar",
+    "pm_value": 42,
+    "level": "Moderate",
+    "recorded_at": "2026-07-26 09:10",
+    "device_id": "AQ002"
+  },
+  {
+    "reading_id": 3,
+    "locality": "Velachery",
+    "pm_value": 68,
+    "level": "Poor",
+    "recorded_at": "2026-07-26 09:20",
+    "device_id": "AQ003"
+  },
+  {
+    "reading_id": 4,
+    "locality": "Tambaram",
+    "pm_value": 125,
+    "level": "Hazardous",
+    "recorded_at": "2026-07-26 09:30",
+    "device_id": "AQ004"
+  },
+  {
+    "reading_id": 5,
+    "locality": "Porur",
+    "pm_value": 35,
+    "level": "Good",
+    "recorded_at": "2026-07-26 09:40",
+    "device_id": "AQ005"
+  },
+  {
+    "reading_id": 6,
+    "locality": "Chromepet",
+    "pm_value": 58,
+    "level": "Moderate",
+    "recorded_at": "2026-07-26 09:50",
+    "device_id": "AQ006"
+  },
+  {
+    "reading_id": 7,
+    "locality": "Guindy",
+    "pm_value": 82,
+    "level": "Poor",
+    "recorded_at": "2026-07-26 10:00",
+    "device_id": "AQ007"
+  },
+  {
+    "reading_id": 8,
+    "locality": "Adyar",
+    "pm_value": 145,
+    "level": "Hazardous",
+    "recorded_at": "2026-07-26 10:10",
+    "device_id": "AQ008"
+  },
+  {
+    "reading_id": 9,
+    "locality": "OMR",
+    "pm_value": 20,
+    "level": "Good",
+    "recorded_at": "2026-07-26 10:20",
+    "device_id": "AQ009"
+  },
+  {
+    "reading_id": 10,
+    "locality": "Perungudi",
+    "pm_value": 47,
+    "level": "Moderate",
+    "recorded_at": "2026-07-26 10:30",
+    "device_id": "AQ010"
+  },
+  {
+  "reading_id": 11,
+  "locality": "Mylapore",
+  "pm_value": 32,
+  "level": "Good",
+  "recorded_at": "2026-07-26 10:20",
+  "device_id": "AQ011"
+},
+{
+  "reading_id": 12,
+  "locality": "Egmore",
+  "pm_value": 48,
+  "level": "Moderate",
+  "recorded_at": "2026-07-26 10:30",
+  "device_id": "AQ012"
+},
+{
+  "reading_id": 13,
+  "locality": "Kodambakkam",
+  "pm_value": 74,
+  "level": "Poor",
+  "recorded_at": "2026-07-26 10:40",
+  "device_id": "AQ013"
+},
+{
+  "reading_id": 14,
+  "locality": "Perungudi",
+  "pm_value": 138,
+  "level": "Hazardous",
+  "recorded_at": "2026-07-26 10:50",
+  "device_id": "AQ014"
+},
+{
+  "reading_id": 15,
+  "locality": "Medavakkam",
+  "pm_value": 30,
+  "level": "Good",
+  "recorded_at": "2026-07-26 11:00",
+  "device_id": "AQ015"
+},
+{
+  "reading_id": 16,
+  "locality": "Sholinganallur",
+  "pm_value": 57,
+  "level": "Moderate",
+  "recorded_at": "2026-07-26 11:10",
+  "device_id": "AQ016"
+},
+{
+  "reading_id": 17,
+  "locality": "Pallavaram",
+  "pm_value": 80,
+  "level": "Poor",
+  "recorded_at": "2026-07-26 11:20",
+  "device_id": "AQ017"
+},
+{
+  "reading_id": 18,
+  "locality": "Ambattur",
+  "pm_value": 150,
+  "level": "Hazardous",
+  "recorded_at": "2026-07-26 11:30",
+  "device_id": "AQ018"
+},
+{
+  "reading_id": 19,
+  "locality": "Anna Nagar West",
+  "pm_value": 26,
+  "level": "Good",
+  "recorded_at": "2026-07-26 11:40",
+  "device_id": "AQ019"
+},
+{
+  "reading_id": 20,
+  "locality": "Nungambakkam",
+  "pm_value": 44,
+  "level": "Moderate",
+  "recorded_at": "2026-07-26 11:50",
+  "device_id": "AQ020"
+},
+{
+  "reading_id": 21,
+  "locality": "Royapettah",
+  "pm_value": 72,
+  "level": "Poor",
+  "recorded_at": "2026-07-26 12:00",
+  "device_id": "AQ021"
+},
+{
+  "reading_id": 22,
+  "locality": "Triplicane",
+  "pm_value": 128,
+  "level": "Hazardous",
+  "recorded_at": "2026-07-26 12:10",
+  "device_id": "AQ022"
+},
+{
+  "reading_id": 23,
+  "locality": "Velachery East",
+  "pm_value": 35,
+  "level": "Good",
+  "recorded_at": "2026-07-26 12:20",
+  "device_id": "AQ023"
+},
+{
+  "reading_id": 24,
+  "locality": "Poonamallee",
+  "pm_value": 54,
+  "level": "Moderate",
+  "recorded_at": "2026-07-26 12:30",
+  "device_id": "AQ024"
+},
+{
+  "reading_id": 25,
+  "locality": "Avadi",
+  "pm_value": 83,
+  "level": "Poor",
+  "recorded_at": "2026-07-26 12:40",
+  "device_id": "AQ025"
+},
+{
+  "reading_id": 26,
+  "locality": "Koyambedu",
+  "pm_value": 142,
+  "level": "Hazardous",
+  "recorded_at": "2026-07-26 12:50",
+  "device_id": "AQ026"
+},
+{
+  "reading_id": 27,
+  "locality": "Teynampet",
+  "pm_value": 29,
+  "level": "Good",
+  "recorded_at": "2026-07-26 13:00",
+  "device_id": "AQ027"
+},
+{
+  "reading_id": 28,
+  "locality": "Guindy Industrial",
+  "pm_value": 50,
+  "level": "Moderate",
+  "recorded_at": "2026-07-26 13:10",
+  "device_id": "AQ028"
+},
+{
+  "reading_id": 29,
+  "locality": "Saidapet",
+  "pm_value": 69,
+  "level": "Poor",
+  "recorded_at": "2026-07-26 13:20",
+  "device_id": "AQ029"
+},
+{
+  "reading_id": 30,
+  "locality": "Chromepet East",
+  "pm_value": 133,
+  "level": "Hazardous",
+  "recorded_at": "2026-07-26 13:30",
+  "device_id": "AQ030"
+},
+{
+  "reading_id": 31,
+  "locality": "Thoraipakkam",
+  "pm_value": 33,
+  "level": "Good",
+  "recorded_at": "2026-07-26 13:40",
+  "device_id": "AQ031"
+},
+{
+  "reading_id": 32,
+  "locality": "Madipakkam",
+  "pm_value": 47,
+  "level": "Moderate",
+  "recorded_at": "2026-07-26 13:50",
+  "device_id": "AQ032"
+},
+{
+  "reading_id": 33,
+  "locality": "Purasawalkam",
+  "pm_value": 77,
+  "level": "Poor",
+  "recorded_at": "2026-07-26 14:00",
+  "device_id": "AQ033"
+},
+{
+  "reading_id": 34,
+  "locality": "Manapakkam",
+  "pm_value": 145,
+  "level": "Hazardous",
+  "recorded_at": "2026-07-26 14:10",
+  "device_id": "AQ034"
+},
+{
+  "reading_id": 35,
+  "locality": "Vadapalani",
+  "pm_value": 27,
+  "level": "Good",
+  "recorded_at": "2026-07-26 14:20",
+  "device_id": "AQ035"
+},
+{
+  "reading_id": 36,
+  "locality": "Besant Nagar",
+  "pm_value": 52,
+  "level": "Moderate",
+  "recorded_at": "2026-07-26 14:30",
+  "device_id": "AQ036"
+},
+{
+  "reading_id": 37,
+  "locality": "Ashok Nagar",
+  "pm_value": 79,
+  "level": "Poor",
+  "recorded_at": "2026-07-26 14:40",
+  "device_id": "AQ037"
+},
+{
+  "reading_id": 38,
+  "locality": "Madhavaram",
+  "pm_value": 149,
+  "level": "Hazardous",
+  "recorded_at": "2026-07-26 14:50",
+  "device_id": "AQ038"
+},
+{
+  "reading_id": 39,
+  "locality": "Tambaram East",
+  "pm_value": 31,
+  "level": "Good",
+  "recorded_at": "2026-07-26 15:00",
+  "device_id": "AQ039"
+},
+{
+  "reading_id": 40,
+  "locality": "Navalur",
+  "pm_value": 59,
+  "level": "Moderate",
+  "recorded_at": "2026-07-26 15:10",
+  "device_id": "AQ040"
+}
+]

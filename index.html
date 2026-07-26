@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Neighbourhood Air Quality Monitoring</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Neighbourhood Air Quality Monitoring</h1>
+</header>
+
+<div class="container">
+
+<div class="top">
+
+<input
+type="text"
+id="search"
+placeholder="Search Locality..."
+onkeyup="searchReading()">
+
+<select id="filter" onchange="filterLevel()">
+<option value="All">All Levels</option>
+<option value="Good">Good</option>
+<option value="Moderate">Moderate</option>
+<option value="Poor">Poor</option>
+<option value="Hazardous">Hazardous</option>
+</select>
+
+<a href="add.html">
+<button>Add Reading</button>
+</a>
+
+</div>
+
+<p id="count"></p>
+
+<table>
+
+<thead>
+
+<tr>
+
+<th>ID</th>
+<th>Locality</th>
+<th>PM2.5</th>
+<th>Level</th>
+<th>Date</th>
+<th>Device</th>
+<th>Action</th>
+
+</tr>
+
+</thead>
+
+<tbody id="tableBody">
+
+</tbody>
+
+</table>
+
+</div>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
