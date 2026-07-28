@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "author": "Student",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "wokwi-esp32-devkit-v1",
+      "id": "esp"
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led",
+      "attrs": {
+        "color": "red"
+      }
+    },
+    {
+      "type": "wokwi-potentiometer",
+      "id": "pot"
+    }
+  ],
+  "connections": [
+    ["pot:SIG", "esp:34", "green"],
+    ["pot:VCC", "esp:3V3", "red"],
+    ["pot:GND", "esp:GND", "black"],
+    ["led:A", "esp:2", "green"],
+    ["led:C", "esp:GND", "black"]
+  ]
+}
