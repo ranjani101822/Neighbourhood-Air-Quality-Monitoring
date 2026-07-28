@@ -1,0 +1,38 @@
+function getAirLevel(pm) {
+
+    pm = Number(pm);
+
+    if (pm <= 35)
+        return "Good";
+
+    if (pm <= 60)
+        return "Moderate";
+
+    if (pm <= 100)
+        return "Poor";
+
+    return "Hazardous";
+}
+
+function getCurrentDate() {
+
+    return new Date().toLocaleString();
+
+}
+
+
+function getLevel(pm){
+
+if(pm<=35)
+return "Good";
+
+else if(pm<=60)
+return "Moderate";
+
+else if(pm<=100)
+return "Poor";
+
+else
+return "Hazardous";
+
+}
